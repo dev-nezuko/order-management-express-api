@@ -1,0 +1,33 @@
+[
+  {
+    "id": "cust-1",
+    "name": "Alice Johnson",
+    "tier": "premium"
+  },
+  {
+    "id": "cust-2",
+    "name": "Bob Smith",
+    "tier": "standard"
+  },
+  {
+    "id": "cust-3",
+    "name": "Carol Williams",
+    "tier": "premium"
+  },
+  {
+    "id": "cust-4",
+    "name": "David Brown",
+    "tier": "standard"
+  },
+  {
+    "id": "cust-5",
+    "name": "Emma Davis",
+    "tier": "standard"
+  },
+  {
+    "id": "cust-6",
+    "name": "Frank Miller",
+    "tier": "premium"
+  }
+]
+

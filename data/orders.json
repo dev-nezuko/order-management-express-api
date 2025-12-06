@@ -1,0 +1,102 @@
+[
+  {
+    "id": "order-1",
+    "customerId": "cust-1",
+    "lines": [
+      { "productId": "prod-1", "quantity": 1 },
+      { "productId": "prod-2", "quantity": 1 }
+    ],
+    "status": "paid",
+    "createdAt": "2024-01-15T10:30:00Z"
+  },
+  {
+    "id": "order-2",
+    "customerId": "cust-2",
+    "lines": [
+      { "productId": "prod-4", "quantity": 3 },
+      { "productId": "prod-6", "quantity": 1 }
+    ],
+    "status": "shipped",
+    "createdAt": "2024-01-16T14:20:00Z"
+  },
+  {
+    "id": "order-3",
+    "customerId": "cust-1",
+    "lines": [
+      { "productId": "prod-3", "quantity": 1 },
+      { "productId": "prod-7", "quantity": 1 }
+    ],
+    "status": "pending",
+    "createdAt": "2024-02-01T09:15:00Z"
+  },
+  {
+    "id": "order-4",
+    "customerId": "cust-3",
+    "lines": [
+      { "productId": "prod-5", "quantity": 1 },
+      { "productId": "prod-8", "quantity": 2 }
+    ],
+    "status": "paid",
+    "createdAt": "2024-02-05T16:45:00Z"
+  },
+  {
+    "id": "order-5",
+    "customerId": "cust-4",
+    "lines": [
+      { "productId": "prod-1", "quantity": 2 }
+    ],
+    "status": "cancelled",
+    "createdAt": "2024-02-10T11:00:00Z"
+  },
+  {
+    "id": "order-6",
+    "customerId": "cust-2",
+    "lines": [
+      { "productId": "prod-2", "quantity": 1 },
+      { "productId": "prod-5", "quantity": 1 }
+    ],
+    "status": "pending",
+    "createdAt": "2024-02-15T08:30:00Z"
+  },
+  {
+    "id": "order-7",
+    "customerId": "cust-5",
+    "lines": [
+      { "productId": "prod-3", "quantity": 1 },
+      { "productId": "prod-4", "quantity": 2 },
+      { "productId": "prod-7", "quantity": 1 }
+    ],
+    "status": "shipped",
+    "createdAt": "2024-02-20T13:10:00Z"
+  },
+  {
+    "id": "order-8",
+    "customerId": "cust-1",
+    "lines": [
+      { "productId": "prod-5", "quantity": 1 }
+    ],
+    "status": "paid",
+    "createdAt": "2024-03-01T10:00:00Z"
+  },
+  {
+    "id": "order-9",
+    "customerId": "cust-6",
+    "lines": [
+      { "productId": "prod-6", "quantity": 2 },
+      { "productId": "prod-4", "quantity": 1 }
+    ],
+    "status": "pending",
+    "createdAt": "2024-03-05T15:20:00Z"
+  },
+  {
+    "id": "order-10",
+    "customerId": "cust-3",
+    "lines": [
+      { "productId": "prod-1", "quantity": 1 },
+      { "productId": "prod-8", "quantity": 1 }
+    ],
+    "status": "shipped",
+    "createdAt": "2024-03-10T09:45:00Z"
+  }
+]
+

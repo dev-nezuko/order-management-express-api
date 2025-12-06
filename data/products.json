@@ -1,0 +1,51 @@
+[
+  {
+    "id": "prod-1",
+    "name": "TypeScript Handbook",
+    "priceCents": 2999,
+    "category": "book"
+  },
+  {
+    "id": "prod-2",
+    "name": "Wireless Headphones",
+    "priceCents": 7999,
+    "category": "electronics"
+  },
+  {
+    "id": "prod-3",
+    "name": "Node.js Design Patterns",
+    "priceCents": 4499,
+    "category": "book"
+  },
+  {
+    "id": "prod-4",
+    "name": "Cotton T-Shirt",
+    "priceCents": 1999,
+    "category": "clothing"
+  },
+  {
+    "id": "prod-5",
+    "name": "Mechanical Keyboard",
+    "priceCents": 12999,
+    "category": "electronics"
+  },
+  {
+    "id": "prod-6",
+    "name": "Denim Jeans",
+    "priceCents": 4999,
+    "category": "clothing"
+  },
+  {
+    "id": "prod-7",
+    "name": "Clean Code",
+    "priceCents": 3499,
+    "category": "book"
+  },
+  {
+    "id": "prod-8",
+    "name": "USB-C Hub",
+    "priceCents": 3999,
+    "category": "electronics"
+  }
+]
+
