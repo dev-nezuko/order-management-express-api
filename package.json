@@ -1,12 +1,11 @@
 {
   "name": "order-management-api-test",
   "version": "1.0.0",
-  "description": "Advanced Node.js + Express + TypeScript coding test for 2-3 year engineers",
+  "description": "Unfinished Express/TypeScript order API practice exercise with fixtures and acceptance tests",
   "type": "module",
   "scripts": {
     "test": "vitest run",
     "test:watch": "vitest",
-    "test:solutions": "./scripts/test-solutions.sh",
     "dev": "tsx src/server.ts",
     "typecheck": "tsc --noEmit"
   },
@@ -26,4 +25,3 @@
     "node": ">=20.0.0"
   }
 }
-
